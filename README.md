@@ -11,8 +11,8 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |People|
 |--|
 |[@ky1ro](https://twitter.com/ky1ro)|
-|[@JustIraj](https://twitter.com/JustIraj)|
 |[@ItsJunction](https://twitter.com/ItsJunction)|
+|[@xLOLxLOLxIRAJx](https://twitter.com/xLOLxLOLxIRAJx)|
 
 |Repositories|
 |--|
