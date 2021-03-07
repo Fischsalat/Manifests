@@ -8,10 +8,14 @@ Yes! If you want to submit your manifests, you can do so by cloning this reposit
 You're allowed to credit yourself in the pull request you make when submitting your manifests, such as linking your social medias, as long as they're appropriate. If the content of the pull request is inappropriate, we will deny your pull request.
 
 ## Contributors
+|People|
+|--|
 |[@ky1ro](https://twitter.com/ky1ro)|
 |[@JustIraj](https://twitter.com/JustIraj)|
 |[@ItsJunction](https://twitter.com/ItsJunction)|
 
+|Repositories|
+|--|
 |[Polynite](https://github.com/polynite/fn-releases)|
 |[FortniteManifestArchive](https://github.com/vastblast/fortnitemanifestarchive)|
 
