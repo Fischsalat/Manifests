@@ -1,11 +1,16 @@
 # Nocturo Manifests
 This is our manifest collection. This repository is used by our servers to provide manifests to download from the launcher.
 
+
 ### Can I add to this collection?
-Yes! If you want to submit your manifests, you can do so by cloning this repository, adding your manifests in the appropriate folders, and submitting a pull request. If we approve of your manifests, they will be added to the launcher's library. (Please note that due to caching it might take up to 10 minutes for your manifests to appear on the launcher.) Also, please don't submit a manifest if we already have a newer build of said manifest. For example, if we have `++Fortnite+Release-9.41-CL-7609292-Windows`, don't make a pull request containing `++Fortnite+Release-9.41-CL-7463579-Windows`, because the manifest we have is for a hotfixed and more recent build.
+Yes! If you want to submit your manifests, you can do so by cloning this repository, adding your manifests in the appropriate folders, and submitting a pull request. If we approve of your manifests, they will be added to the launcher's library. (Please note that due to caching it might take up to 10 minutes for your manifests to appear on the launcher.) 
+
+Also, please don't submit a manifest if we already have a newer build of said manifest. For example, if we have `++Fortnite+Release-9.41-CL-7609292-Windows`, don't make a pull request containing `++Fortnite+Release-9.41-CL-7463579-Windows`, because the manifest we have is for a hotfixed and more recent build.
+
 
 ### Am I allowed to credit myself in the manifests I submit?
 You're allowed to credit yourself in the pull request you make when submitting your manifests, such as linking your social medias, as long as they're appropriate. If the content of the pull request is inappropriate, we will deny your pull request.
+
 
 ## Contributors
 |People|
@@ -18,6 +23,7 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |--|
 |[Polynite](https://github.com/polynite/fn-releases)|
 |[FortniteManifestArchive](https://github.com/vastblast/fortnitemanifestarchive)|
+
 
 ## Manifests
 ### Chapter 1, Season 2
