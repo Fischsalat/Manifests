@@ -7,6 +7,14 @@ Yes! If you want to submit your manifests, you can do so by cloning this reposit
 ### Am I allowed to credit myself in the manifests I submit?
 You're allowed to credit yourself in the pull request you make when submitting your manifests, such as linking your social medias, as long as they're appropriate. If the content of the pull request is inappropriate, we will deny your pull request.
 
+## Contributors
+|[@ky1ro](https://twitter.com/ky1ro)|
+|[@JustIraj](https://twitter.com/JustIraj)|
+|[@ItsJunction](https://twitter.com/ItsJunction)|
+
+|[Polynite](https://github.com/polynite/fn-releases)|
+|[FortniteManifestArchive](https://github.com/vastblast/fortnitemanifestarchive)|
+
 ## Manifests
 ### Chapter 1, Season 2
 |Version|
