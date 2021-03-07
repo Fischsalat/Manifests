@@ -51,6 +51,8 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |++Fortnite+Release-8.20-CL-5625478-Windows|
 |++Fortnite+Release-8.30-CL-5793395-Windows|
 |++Fortnite+Release-8.40-CL-6005771-Windows|
+|++Fortnite+Release-8.50-CL-6058028-Windows|
+|++Fortnite+Release-8.51-CL-6165369-Windows|
 
 ### Chapter 1, Season 9
 |Version|
@@ -62,12 +64,12 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |++Fortnite+Release-9.21-CL-6922310-Windows|
 |++Fortnite+Release-9.30-CL-7095426-Windows|
 |++Fortnite+Release-9.40-CL-7315705-Windows|
-|++Fortnite+Release-9.41-CL-7463579-Windows|
+|++Fortnite+Release-9.41-CL-7609292-Windows|
 
 ### Chapter 1, Season X
 |Version|
 |--|
-|++Fortnite+Release-10.0-CL-7658179-Windows|
+|++Fortnite+Release-10.00-CL-7658179-Windows|
 |++Fortnite+Release-10.10-CL-7955722-Windows|
 |++Fortnite+Release-10.20-CL-8456527-Windows|
 |++Fortnite+Release-10.30-CL-8569414-Windows|
@@ -77,30 +79,29 @@ You're allowed to credit yourself in the pull request you make when submitting y
 ### Chapter 2, Season 1
 |Version|
 |--|
-|++Fortnite+Release-11.00-CL-9562734-Windows|
+|++Fortnite+Release-11.00-CL-9603448-Windows|
 |++Fortnite+Release-11.01-CL-9728272-Windows|
 |++Fortnite+Release-11.10-CL-9901083-Windows|
 |++Fortnite+Release-11.11-CL-10082788-Windows|
 |++Fortnite+Release-11.20-CL-10328358-Windows|
 |++Fortnite+Release-11.21-CL-10481509-Windows|
-|++Fortnite+Release-11.30-CL-10639804-Windows|
-|++Fortnite+Release-11.31-CL-10760473-Windows|
-|++Fortnite+Release-11.40-CL-10951104-Windows|
+|++Fortnite+Release-11.30-CL-10708866-Windows|
+|++Fortnite+Release-11.31-CL-10800459-Windows|
+|++Fortnite+Release-11.40-CL-11109625-Windows|
 |++Fortnite+Release-11.50-CL-11265652-Windows|
 
 ### Chapter 2, Season 2
 |Version|
 |--|
-|++Fortnite+Release-12.00-CL-11556442-Windows|
+|++Fortnite+Release-12.00-CL-11586896-Windows|
 |++Fortnite+Release-12.10-CL-11883027-Windows|
-|++Fortnite+Release-12.20-CL-12170032-Windows|
+|++Fortnite+Release-12.20-CL-12236980-Windows|
 |++Fortnite+Release-12.21-CL-12353830-Windows|
 |++Fortnite+Release-12.30-CL-12624643-Windows|
 |++Fortnite+Release-12.40-CL-12837456-Windows|
 |++Fortnite+Release-12.41-CL-12905909-Windows|
 |++Fortnite+Release-12.50-CL-13193885-Windows|
-|++Fortnite+Release-12.60-CL-13315662-Windows|
-|++Fortnite+Release-12.60-CL-13315662-Windows|
+|++Fortnite+Release-12.60-CL-13477524-Windows|
 |++Fortnite+Release-12.61-CL-13498980-Windows|
 
 ### Chapter 2, Season 3
@@ -130,4 +131,5 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |++Fortnite+Release-15.20-CL-15070882-Windows|
 |++Fortnite+Release-15.21-CL-15083856-Windows|
 |++Fortnite+Release-15.30-CL-15341163-Windows|
-|++Fortnite+Release-15.40-CL-15419568-Windows|
+|++Fortnite+Release-15.40-CL-15496915-Windows|
+|++Fortnite+Release-15.50-CL-15570449-Windows|
