@@ -18,6 +18,7 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |[@ky1ro](https://twitter.com/ky1ro)|
 |[@ItsJunction](https://twitter.com/ItsJunction)|
 |[@xLOLxLOLxIRAJx](https://twitter.com/xLOLxLOLxIRAJx)|
+|[@FischsaIat](https://twitter.com/FischsaIat)|
 
 |Repositories|
 |--|
@@ -116,15 +117,21 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |++Fortnite+Release-13.00-CL-13715544-Windows|
 |++Fortnite+Release-13.20-CL-13777676-Windows|
 |++Fortnite+Release-13.30-CL-13884634-Windows|
+|++Fortnite+Release-13.40-CL-14008768-Windows|
 |++Fortnite+Release-13.40-CL-14113327-Windows|
 
 ### Chapter 2, Season 4
 |Version|
 |--|
+|++Fortnite+Release-14.00-CL-14173417-Windows|
 |++Fortnite+Release-14.00-CL-14211474-Windows|
+|++Fortnite+Release-14.10-CL-14276912-Windows|
+|++Fortnite+Release-14.10-CL-14288110-Windows|
 |++Fortnite+Release-14.10-CL-14312695-Windows|
+|++Fortnite+Release-14.20-CL-14375974-Windows|
 |++Fortnite+Release-14.20-CL-14384759-Windows|
 |++Fortnite+Release-14.30-CL-14456520-Windows|
+|++Fortnite+Release-14.40-CL-14512399-Windows|
 |++Fortnite+Release-14.40-CL-14550713-Windows|
 |++Fortnite+Release-14.50-CL-14643651-Windows|
 |++Fortnite+Release-14.60-CL-14786821-Windows|
@@ -133,6 +140,7 @@ You're allowed to credit yourself in the pull request you make when submitting y
 |Version|
 |--|
 |++Fortnite+Release-15.00-CL-14835335-Windows|
+|++Fortnite+Release-15.10-CL-14904303-Windows|
 |++Fortnite+Release-15.10-CL-15014719-Windows|
 |++Fortnite+Release-15.20-CL-15070882-Windows|
 |++Fortnite+Release-15.21-CL-15083856-Windows|
